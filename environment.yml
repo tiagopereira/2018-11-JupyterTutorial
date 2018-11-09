@@ -1,0 +1,17 @@
+name: jupyter2018ita
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - notebook
+  - pandas
+  - nodejs
+  - jupyterlab
+  - bqplot
+  - pythreejs
+  - matplotlib
+  - ipywidgets
+  - pythreejs
+  - ipympl
+  - scipy
